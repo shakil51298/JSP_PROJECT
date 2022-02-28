@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+hello world
+
+ <h1>This minus part: </h1>
+<form action="minus">
+Enter the first num: <input type="text" name="num1"/> <br/>
+<br/>
+Enter the second num: <input type="text" name="num2"/>
+<br/>
+<input type ="submit">
+</form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+package com.shakil;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class SqrSevlate extends HttpServlet {
+	public void goGet(HttpServletRequest req , HttpServletResponse res) {
+		
+		
+		res.getWriter().println("Hell i am working!!"); 
+		
+	}
+}
